@@ -6,10 +6,11 @@ __pycache__
 demo_data/
 images-preds/
 masques_test/
-test_fichorg/
-OCCLUSION/
-OCCLUSION2/
-OCCLUSION3/
+test_fichorig/
+OCCCLUSION/
+OCCCLUSION2/
+OCCCLUSION3/
 Résultats/
 Visualisations/
-
+input_metadata/
+annotations/
