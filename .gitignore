@@ -1,0 +1,15 @@
+.cache/
+cyws-3d.ckpt
+preds/
+__pycache__
+.ipynb_checkpoints
+demo_data/
+images-preds/
+masques_test/
+test_fichorg/
+OCCLUSION/
+OCCLUSION2/
+OCCLUSION3/
+Résultats/
+Visualisations/
+
