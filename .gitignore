@@ -13,4 +13,4 @@ OCCCLUSION3/
 Résultats/
 Visualisations/
 input_metadata/
-annotations/
+*.txt

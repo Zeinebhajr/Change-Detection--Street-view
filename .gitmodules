@@ -1,0 +1,6 @@
+[submodule "SuperGluePretrainedNetwork"]
+	path = SuperGluePretrainedNetwork
+	url = https://github.com/magicleap/SuperGluePretrainedNetwork.git
+[submodule "RoMa"]
+	path = RoMa
+	url = https://github.com/Parskatt/RoMa.git
